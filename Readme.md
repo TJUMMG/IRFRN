@@ -15,4 +15,4 @@ W. Nie, X. Wen, J. Liu and Y. Su, "Iterative Residual Feature Refinement Network
 
 We test quantitative recovery performance of all competing algorithms for 8→10 BDE on two 16-bit datasets mentioned in our paper, *i.e.* MIT-Adobe 5K dataset and UST-HK dataset. The comparison results are shown in Table B, where the top three results are marked in red, blue, and green, respectively. Note that since the authors of BDEN did not provide training or test code for 8-bit input, we omit it in the comparison.
 
-![image-20220526164439344](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20220526164439344.png)
+![image](https://github.com/TJUMMG/IRFRN/blob/main/Experiment%20results/IRFRN_8to10.png)
