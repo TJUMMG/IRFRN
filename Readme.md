@@ -1,8 +1,8 @@
-#  Iterative Residual Feature Refifinement Network for Bit-Depth Enhancement
+#  Iterative Residual Feature Refinement Network for Bit-Depth Enhancement
 Copyright(c) 2022 Weizhi Nie
 ```
 If you reference this paper, please cite the following publication:
-W. Nie, X. Wen, J. Liu and Y. Su, "Iterative Residual Feature Refifinement Network for Bit-Depth Enhancement", to appear in IEEE Signal Processing Letters.
+W. Nie, X. Wen, J. Liu and Y. Su, "Iterative Residual Feature Refinement Network for Bit-Depth Enhancement", to appear in IEEE Signal Processing Letters.
 
 ```
 ## Contents
