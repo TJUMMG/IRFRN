@@ -1,4 +1,4 @@
-# @Author  : Xin Wen
+# @Author: Xin Wen
 
 import torch
 import os
